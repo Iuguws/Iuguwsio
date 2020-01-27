@@ -10,7 +10,7 @@ _The modern framework for your site._
 <link href='iuguwsio.css' type='text/css' rel='stylesheet'>
 ```
 
-##### Connecting fonts to the page
+##### Connecting fonts to the page (Roboto)
 ```html
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 ```
