@@ -1,5 +1,5 @@
 ### Framework Iuguwsio
-Version: 1.0.0 (ALPHA)
+_Version: 1.0.0 (ALPHA)_
 _The modern framework for your site._
 
 #### Using the framework
@@ -20,3 +20,4 @@ _The modern framework for your site._
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
 ```
 
+#### TODO:
