@@ -1,8 +1,8 @@
-### Framework Iuguwsio
+## Framework Iuguwsio
 _Version: 1.0.0 (ALPHA)_
 _The modern framework for your site._
 
-#### Using the framework
+### Using the framework
 
 
 ##### Connecting the framework to your page
