@@ -21,7 +21,7 @@ body {
 }
 
 .body-snow {	
-	background-image: url('../img/snow/snow_1.png'), url('../img/snow/snow_2.png'), url('../img/snow/snow_3.png');
+	background-image: url('/img/snow/snow_1.png'), url('/img/snow/snow_2.png'), url('/img/snow/snow_3.png');
     
 	-webkit-animation: snow 10s linear infinite;
     -moz-animation: snow 10s linear infinite;
