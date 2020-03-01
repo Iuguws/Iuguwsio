@@ -618,6 +618,7 @@ code {
 
 .name-gradient {
     color: WHITE;
+    padding: 0 10px;
     font-size: 84px;
     text-transform: uppercase;
     font-weight: bold;
