@@ -665,6 +665,12 @@ code {
   } 
 } 
 
+@media and (max-width: 767px) {
+  .name-gradient {
+    font-size: 68px;
+  }
+}
+
 .version-pg {
     color: white;
     font-size: 12px;
