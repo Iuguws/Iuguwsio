@@ -14,6 +14,6 @@
 
 
 <h2>Authors</h2>
-Iuguwsio - Framework creator.
+<b>Iuguwsio</b> - Framework creator.
 
 
