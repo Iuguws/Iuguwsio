@@ -4,3 +4,8 @@
   </a>
 </p>
 
+<h2>Authors</h2>
+<hr>
+Iuguwsio - Framework creator.
+
+
