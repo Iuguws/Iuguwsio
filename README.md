@@ -4,7 +4,9 @@
   </a>
 </p>
 
-<center><a href="">>> Go to documentation  <<</a></center>
+<p align="center">
+    <a href="">>> Go to documentation  <<</a>
+</p>
 
 <h2>Getting started</h2>
 
