@@ -1,3 +1,5 @@
+![Logotype Iuguwsio Framework](https://github.com/Iuguws/Iuguwsio-Framework/blob/master/img/LOGOTYPE.png)
+
 ## Framework Iuguwsio
 _Version: 1.0.0 (ALPHA)_
 _The modern framework for your site._
