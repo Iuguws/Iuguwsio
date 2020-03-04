@@ -69,7 +69,7 @@ Let's try to use the code below to get started:
 Documentation for the framework you can see on our official website, as well as there you will find a set of ready-made themes for your creativity.
 </p>
 
-<h2>TODO</h2>
+<h2>ToDo</h2>
 <p>
 We plan to further develop our framework and therefore are ready to provide a list of what we plan to do.
 </p>
