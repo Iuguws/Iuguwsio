@@ -65,6 +65,10 @@ Let's try to use the code below to get started:
 
 <h2>Documentation</h2>
 
+<h2>TODO</h2>
+<p>
+We plan to further develop our framework and therefore are ready to provide a list of what we plan to do.
+</p>
 
 <h2>Donations</h2>
 <p>
