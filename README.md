@@ -66,7 +66,7 @@ Let's try to use the code below to get started:
 <h2>Documentation</h2>
 
 <p>
-Use a ready-made set of components in our framework. More components you can see on our official website.
+Documentation for the framework you can see on our official website, as well as there you will find a set of ready-made themes for your creativity.
 </p>
 
 <h2>TODO</h2>
