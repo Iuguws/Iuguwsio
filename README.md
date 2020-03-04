@@ -72,6 +72,7 @@ Documentation for the framework you can see on our official website, as well as 
 <h2>TODO</h2>
 <p>
 We plan to further develop our framework and therefore are ready to provide a list of what we plan to do.
+It's planned to do:
 </p>
 
 <h2>Donations</h2>
