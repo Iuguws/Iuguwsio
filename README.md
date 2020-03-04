@@ -65,6 +65,10 @@ Let's try to use the code below to get started:
 
 <h2>Documentation</h2>
 
+<p>
+Use a ready-made set of components in our framework. More components you can see on our official website.
+</p>
+
 <h2>TODO</h2>
 <p>
 We plan to further develop our framework and therefore are ready to provide a list of what we plan to do.
