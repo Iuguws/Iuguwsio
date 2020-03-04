@@ -72,6 +72,10 @@ I would be very glad if you can donate any amount, it can be at least $0.01, a l
 </p>
 
 <h2>Authors</h2>
+<p>
+Authors who have worked or are working on the framework.
+</p>
+
 <b>Iuguwsio</b> - Framework creator.
 
 
