@@ -66,8 +66,10 @@ Let's try to use the code below to get started:
 <h2>Documentation</h2>
 
 
-<h2>Documentation</h2>
-
+<h2>Donations</h2>
+<p>
+I would be very glad if you can donate any amount, it can be at least $0.01, a little support is also a support.
+</p>
 
 <h2>Authors</h2>
 <b>Iuguwsio</b> - Framework creator.
