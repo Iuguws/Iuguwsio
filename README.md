@@ -12,10 +12,11 @@
 <p>
 It's easy to connect the framework! Download the framework and put it at the root of your site. Add the code below to your <head>:
 </p>
-<code>
+  
+```html
 <!-- CSS STYLES -->
 <link href='css/iuguwsio.css' type='text/css' rel='stylesheet'>
-</code>
+```
 
 <h2>Documentation</h2>
 
