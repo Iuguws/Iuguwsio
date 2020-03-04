@@ -9,6 +9,7 @@
 </p>
 
 <h2>Getting started</h2>
+<h4>CSS</h4>
 <p>
 It's easy to connect the framework! Download the framework and put it at the root of your site. Add the code below to your <head>:
 </p>
@@ -18,6 +19,7 @@ It's easy to connect the framework! Download the framework and put it at the roo
 <link href='css/iuguwsio.css' type='text/css' rel='stylesheet'>
 ```
 
+<h4>JAVASCRIPT</h4>
 <p>
 Some framework components require JS, for example jQuery. To make them work, place the following code in a closing tag </body>:
 </p>
