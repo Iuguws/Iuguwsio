@@ -37,25 +37,25 @@ Let's try to use the code below to get started:
 <!DOCTYPE HTML>
 <html lang="en">
     <head>
-	    <title>Basic page Iuguwsio</title>
+	<title>Basic page Iuguwsio</title>
 		
-		<!-- META -->
-		<meta charset="utf-8">		
-		<meta name="viewport" content="initial-scale=1, width=device-width, maximum-scale=1, minimum-scale=1, user-scalable=no">
+	<!-- META -->
+	<meta charset="utf-8">		
+	<meta name="viewport" content="initial-scale=1, width=device-width, maximum-scale=1, minimum-scale=1, user-scalable=no">
 		
-		<!-- CSS STYLES -->
-		<link href='css/iuguwsio.css' type='text/css' rel='stylesheet'>
+	<!-- CSS STYLES -->
+	<link href='css/iuguwsio.css' type='text/css' rel='stylesheet'>
 		
-	</head>
+    </head>
 	
-	<body>
+    <body>
 	
-	    <h1>Hey, my people!</h1>
+        <h1>Hey, my people!</h1>
 		
-		<!-- JAVASCRIPT -->
-		<script type="text/javascript" src="jquery-1.9.1.js"></script>
+	<!-- JAVASCRIPT -->
+	<script type="text/javascript" src="jquery-1.9.1.js"></script>
 		
-	</body>
+    </body>
 </html>
 ```
 
