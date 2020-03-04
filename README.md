@@ -36,7 +36,9 @@ Let's try to use the code below to get started:
 ```html
 <!DOCTYPE HTML>
 <html lang="en">
+	
     <head>
+	    
 	<title>Basic page Iuguwsio</title>
 		
 	<!-- META -->
@@ -56,6 +58,7 @@ Let's try to use the code below to get started:
 	<script type="text/javascript" src="jquery-1.9.1.js"></script>
 		
     </body>
+	
 </html>
 ```
 
